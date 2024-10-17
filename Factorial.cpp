@@ -14,4 +14,5 @@ int main(){
     cin >> number;
     int result = Factorial(number);
     cout << number << "! = "<< result << endl;
+    return 0;
 }
